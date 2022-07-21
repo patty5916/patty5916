@@ -1,5 +1,6 @@
-## Hi! I'm Patty! 👋
-- 🌱 I’m currently studying statistics & massive data analysis at NCKU.
+## Hi~ I'm Patty! 👋
+- 🌱 I’m currently studying data science at NTU & Academia Sinica.
+- 🎓 I got my BBA in statistics & massive data analysis from NCKU.
 - ⭐ I’m currently a junior data scientist.
 
 
