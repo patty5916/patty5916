@@ -1,7 +1,6 @@
 ## Hi~ I'm Patty! 👋
-- 🌱 I’m currently studying data science at NTU & Academia Sinica.
+- 🌱 I’m currently studying data science master degree program at NTU.
 - 🎓 I got my BBA in statistics & massive data analysis from NCKU.
-- ⭐ I’m currently a junior data scientist.
 
 
 ## Tech Stack
