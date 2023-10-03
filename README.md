@@ -1,5 +1,5 @@
 ## Hi~ I'm Patty! 👋
-- 🌱 I’m currently studying data science master degree program at NTU.
+- 🌱 I’m currently a data science master degree program student at NTU & SINICA.
 - 🎓 I got my BBA in statistics & massive data analysis from NCKU.
 
 
